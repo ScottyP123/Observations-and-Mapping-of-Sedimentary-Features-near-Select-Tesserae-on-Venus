@@ -42,7 +42,7 @@ This is a Python notebook with the code we developed based on Telfer et al. (201
 #### SedimentaryFeatureMap
 This folder contains sub-folders of each class of feature mapped on Venus. Features were mapped as polygons in ArcGIS Pro version 3.2.0. The folders are named after the class of feature they contain the map for. Each map is saved in each folder as .cpg, .dbf, .prj, .sbn, .sbx, .shp, .shp.xml, and .shx files.
 <br>.shp files should be used for best results in ArcGIS Pro.
-<br> Please see reports\\ScottPetersen_SeniorThesis.pdf for a full description of each class of feature and a discussion of mapping results.
+<br> Please see ScottPetersen_SeniorThesis.pdf for a full description of each class of feature and a discussion of mapping results.
 <br>
 
 #### _Brief Description of Each Feature Class_
