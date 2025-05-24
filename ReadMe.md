@@ -59,8 +59,8 @@ This folder contains sub-folders of each class of feature mapped on Venus. Featu
 * Streaks_Wispy: Meandering radar-dark wind streaks.
 <br> Wind streak classification is based on Greeley et al. (1995).
 
-#### reports
-This folder contains a .pdf file of Scott Petersen's senior thesis. Please read this document for a full description of the sedimentary map.
+#### ScottPetersen_SeniorThesis.pdf
+This is a .pdf file of Scott Petersen's senior thesis. Please read this document for a full description of the sedimentary map.
 
 ### Availability
 This repository is also posted on the University of Arizona's ReDATA system with the DOI https://doi.org/10.25422/azu.data.29055653
